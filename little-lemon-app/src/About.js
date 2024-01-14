@@ -9,8 +9,8 @@ function About(){
                 jkdfnkjdfkjndsfj<br/>
                 ksdfkldsf
             </p>
-            <img src = "" alt = "" />
-            <img src = "" alt = "" />
+            <img src = "./public/restaurant-chefB.jpg" alt = "Chef Cooking" />
+            <img src = "./public/Mario&AdrianA.jpg" alt = "Two Chefs Talking" />
         </div>
     )
 }
