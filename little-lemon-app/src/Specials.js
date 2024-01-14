@@ -1,6 +1,6 @@
 function Specials(){
     return(
-        <div>
+        <div class = "container" id = "specials">
             <h1><b>This Week's Specials</b></h1>
             <button>Online Menu</button>
             <SpecialsCards/>
