@@ -8,3 +8,5 @@ function Reviews(data){
         </div>
     )
 }
+
+export default Reviews();
