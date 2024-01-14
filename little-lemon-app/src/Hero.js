@@ -1,6 +1,6 @@
 function Hero(){
     return(
-        <div>
+        <div class = "container" id ="hero">
             <h1>Little Lemon</h1>
             <h2>Chicago</h2>
             <p>We are a family owned <br/>
