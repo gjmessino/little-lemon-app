@@ -2,17 +2,19 @@ import './App.css';
 
 function App() {
   return (
-    <>
-    <Header/>
-    <Nav/>
-    <Body/>
-      <main id="hero_section">
-        <article id= "highlights"></article>
-        <article id = "testimonials"></article>
-        <article id= "about"></article>
-      </main>
-    <Footer/>
-   </>
+    <body>
+      <meta name="description" content="Little Lemon is a local Mediterranean restaurant focused on traditional recipes" />
+      <meta property="og:title" content="Little Lemon Restaurant" />
+      <meta property="og:description" content="Little Lemon is a local Mediterranean restaurant focused on traditional recipe" />
+      <meta property="og:image" content="" />
+
+      <Header />
+      <Hero/>
+      <Specials/>
+      <Testimonials/>
+      <Footer />
+    </body>
+
   );
 }
 
