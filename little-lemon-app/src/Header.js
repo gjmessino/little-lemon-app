@@ -1,10 +1,10 @@
 
 function Header() {
     return (
-      <flexbox>
+      <header class = "container" id = "header">
         <img src="./public/lemonlogo.jpg" alt="Little Lemon Logo"/>
         <Nav/>
-      </flexbox>
+      </header>
     );
   }
 
