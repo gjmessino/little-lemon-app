@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+p {
+  font-family: Karla;
+  font-weight: regular;
+  font-size: 16pt
+}
+
+h1 {
+  font-family: Markazi;
+  font-weight: medium;
+  font-size: 64pt;
+}
+
+h2 {
+  font-family: Markazi;
+  font-weight: medium;
+  font-size: 40pt;
+}
+
+button {
+  background-color: #F4CE14;
+}
+
+.card {
+  font-family: Karla;
+  font-weight: bold;
+  font-size: 18pt;
+}
+
+.container {
+  display: flex;
+}
+
+#header,  #specials, #about {
+  background-color: white;
+}
+
+#hero, #testimonials {
+  background-color: #495E57;
+}
+
+#title{
+  color: #F4CE14;
+}
