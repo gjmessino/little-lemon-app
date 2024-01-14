@@ -10,7 +10,8 @@ function Hero(){
                 modern twist
             </p>
             <button>Reserve a Table</button>
-            <img src = "" alt = "Bruschetta"/>
+            <img src = "./public/restauranfood.jpg" alt = "Bruschetta"/>
         </div>
     )
 }
+export default Hero();
