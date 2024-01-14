@@ -1,6 +1,6 @@
 function Footer() {
     return(
-        <footer>
+        <footer class = "container" id ="footer">
             <div>
                 <h1>Doormat Nav</h1>
                 <ul>
