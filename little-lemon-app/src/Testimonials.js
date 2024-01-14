@@ -1,6 +1,6 @@
 function Testimonials(){
     return(
-        <div>
+        <div class = "container" id = "testimonials">
             <h1>Testimonials</h1>
             <Reviews/>
             <Reviews/>
