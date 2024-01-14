@@ -10,3 +10,4 @@ function SpecialsCards(data){
         </div>
     )
 }
+export default SpecialsCards();
