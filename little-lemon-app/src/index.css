@@ -35,7 +35,8 @@ h2 {
 button {
   background-color: #F4CE14;
   color: black;
-  text-align: center
+  text-align: center;
+  border-radius: 16%;
 }
 
 .card {
