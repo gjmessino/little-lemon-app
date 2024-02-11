@@ -1,10 +1,10 @@
-function Reviews(data){
+function Reviews(props){
     return(
         <div class = "container">
             <h1>Rating</h1>
             <img src = "data.profImg"/>
-            <h2>${data.userName}</h2>
-            <p>${data.review}</p>
+            <h2>${props.userName}</h2>
+            <p>${props.review}</p>
         </div>
     )
 }
