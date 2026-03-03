@@ -7,9 +7,9 @@ function About(){
                 Little Lemon is a lovely <br/>
                 neighborhood bistro that serves <br/>
                 simple food and classic <br/>
-                cocktails in a lively but casual<br/>
-                environment. The restuarant<br/>
-                features a locally sourced menu<br/>
+                cocktails in a lively but casual <br/>
+                environment. The restuarant <br/>
+                features a locally sourced menu <br/>
                 with daily specials.
             </p>
             <img src = "./public/restaurant-chefB.jpg" alt = "Chef Cooking" />
