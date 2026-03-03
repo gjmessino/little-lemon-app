@@ -5,7 +5,7 @@ function BookingForm(formData, availableTime) {
     }
     return (
 
-        <form onSubmit={handleSubmit}>
+        <form onSubmit = {handleSubmit}>
             <label htmlFor="guests">Number of Guests</label>
             <input onChange={(e) = setFormData({ ...formData, guests: e.target.value })} value={formData.guests} type="number" name="guestNum" />
             <label htmlFor="date">Date</label>
