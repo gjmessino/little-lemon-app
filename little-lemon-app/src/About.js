@@ -4,7 +4,7 @@ function About(){
             <h1 id = "title">Little Lemon</h1>
             <h2>Chicago</h2>
             <p>
-                Little Lemon is a lovely <br/>
+                Little Lemmony Lemon is a lovely <br/>
                 neighborhood bistro that serves <br/>
                 simple food and classic <br/>
                 cocktails in a lively but casual <br/>
