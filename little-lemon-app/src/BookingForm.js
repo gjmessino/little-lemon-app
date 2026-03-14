@@ -12,12 +12,12 @@ function BookingForm(formData, availableTime) {
             <input onChange={(e) = setFormData({ ...formData, date: e.target.value })} value={formData.date} type="date" name="res_date" />
             <label htmlFor="availableTime">Time</label>
             <select id="res-time ">
-                <option>1700</option>
-                <option>1800</option>
-                <option>1900</option>
-                <option>2000</option>
-                <option>2100</option>
-                <option>2200</option>
+                <option>17:00</option>
+                <option>18:00</option>
+                <option>19:00</option>
+                <option>20:00</option>
+                <option>21:00</option>
+                <option>22:00</option>
             </select>
             <input onChange={(e) = setAvailableTime(prevState => { temp = { ...prevState }; temp[e.target.value] = false; return temp })} value={formData.time} type="number" name="res_time" />
             <label htmlFor="occassion">Occassion</label>
